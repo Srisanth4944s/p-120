@@ -1,0 +1,19 @@
+body{
+    background-color: sandybrown;
+}
+
+#hoop{
+    background-color: orange;
+    width: 500px;
+    border-radius: 25px;
+}
+
+#output{
+    background-color: white;
+    border-radius: 75px;
+    width: 150px;
+}
+
+#net{
+    color: red;
+}
